@@ -1,0 +1,51 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2046
+
+Only for $5
+
+FlashChat includes a set of advanced administrative options so that you can easily manage rooms, users, bans, messages, and much more. 
+
+The room list and message input area can be re-positioned to different parts of the screen by simply dragging and droppinig. These layout positions can also be set by default in the external layout file. 
+
+A PHP-based "bad words filter" allows you, the chat administrator, to prevent foul language from being viewed within the chat. 
+
+FlashChat's text options can also be externally configured in the config.php file. You can add additional font sizes, specify the default font sizes for the interface text, set the default language, and much more! 
+
+Nearly every color in FlashChat can be modified within the PHP configuration files (using the HEX color code). You can also set custom JPG or SWF background images easily by editing the appropriate theme file, located in the /inc/themes/ folder). 
+
+FlashChat has the ability to use small, graphic avatars for any user. You may also set special avatars for administrators, or to distinguish male vs. female users. The background image can be customized for any user as well. 
+
+AIML, the Artificial Intelligence Markup Language, has been integrated with FlashChat. This feature allows your chatters to interact with a true artificial intelligence entity, making your chat seem "alive" even during periods of down-time. 
+
+With over 50 configuration options available in the FlashChat config.php file, you can make the chat behave in any of dozens of ways. Set IP limits, log limits, flood intervals, inactivity limits, and much more! You will find that FlashChat is one of the most highly configurable chat systems on the Net. 
+
+Nearly every piece of text in the FlashChat interface can be customized using external language files. Each language supported by FlashChat comes with a separate UTF-8 language file, which can be easily edited using any standard text editor. 
+
+An advanced installation wizard makes installing FlashChat a snap. As long as you know how to use FTP, and have a MySQL database in place on your server, you can install FlashChat. You should be understand how to set file and folder permissions (chmod). 
+
+FlashChat integrates with a wide variety of content-management systems, including popular bulletin boards and web builders, like phpBB, Mambo, vBulletin, Xoops, Invision Power Board, GeekLog, CPG-Nuke, AEDating, AZDG Dating, UBB.Threads, WowBB, Simple Machines, e107, WotLab BB, PHP Fusion, LunaByte, MD-Pro, PHP-Nuke, POST-Nuke, WowBB, XMB Forum, and more! New integrations are constantly being added, and are distributed for free. 
+
+As long as you have access to MySQL on your web server, you should be able to install FlashChat without a hitch. You'll need your MySQL database login information, as shown here (this is from the installation wizard). 
+
+You can integrate FlashChat directly into your website template. (requires basic knowledge of HTML and PHP). Along with the many display customizations that can be made with FlashChat, your system will appear seemlessly integrated with your website's design. There is a sample.php file with the FlashChat download which illustrates how this is done. 
+
+FlashChat supports over 20 languages, including Eastern languages like Japanese and Chinese. Additional languages can be quickly and easily added by creating the appropriate PHP file, and then adding the reference to the config.php file. Any language can be disabled, modified, or set as the default for the chat. 
+
+The interface layout can be customized through a powerful PHP layout configuration file. Hide or re-arrange almost every part of the FlashChat interface. 
+
+FlashChat's advanced admin panel allows you to view messages within any room from any time period (provided that they have not been purged from the database). Advanced search options ensure that you, the FlashChat administrator, will have quick access to any message that you might be looking for. 
+
+Starting with FlashChat 4.0, external SWFs can be loaded into the FlashChat interface, and communicate bi-directionally with the chat via an ActionScript 2.0 API. This permits advanced add-ons to be built, extending FlashChat's abilities without modifying the core SWF. 
+
+Users and administrator can ignore other users, share files, engage in private chats, and view user profiles (if available). Administrator can ban and unban users, and have at their disposal a variety of text-only commands like /broadcast and /alert. 
+
+The FlashChat smilie set is one of the largest of any chat system. FlashChat takes it a step further, however, by allowing the chat administrator to change the code for any smilie, disable any smilie, and re-order the smilies easily by just re-ordering the corresponding PHP lines in the config.php file. 
+
+All of FlashChat's sounds are externally configurable via MP3 files. Any sound can be muted by default. 
+
+As with most scripts on TUFaT.com, FlashChat includes 100% of the Flash 2004 Pro. source code, including the Flash project file and all ActionScript 2.0 classes. If there's something that you can't do with the PHP configuration options, you're sure to be able to do it by directly editing the Flash code! 
+
+Any text or language setting can be changed by users "on the fly". Their choices are remembered by FlashChat using local shared object. The vectorized FlashChat interface adjusts automatically to accomodate increases or decreases in text size. 
+
+Any sound option can be muted and tested. Options also exist for right/left speaker balance ("pan") and for overall volume. As you would expect, all of these options are fully externally configurable by the chat administrator as well. 
+
+Every theme color scheme can be fully modified by users, with their settings saved by the Flash player as local shared objects. FlashChat comes with multiple custom-designed skins, including Macintosh Aqua, Windows XP, and Gradient Skin.
